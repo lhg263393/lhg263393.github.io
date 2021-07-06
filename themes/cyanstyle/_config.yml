@@ -2,6 +2,10 @@
 menu:
   Home: /
   Archives: /archives
+  c/cpp: c-cpp
+  python: python
+  shell: categories/shell
+    
 
 # Content
 excerpt_link: More
